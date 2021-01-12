@@ -46,3 +46,12 @@ $ sh shell.sh
 - Add a throttle option based on the assumption of high performance equipment(high Performance 장비를 가정으로한 throttling 옵션 추가)
 
 - Archive the results json file in the result folder (result 폴더에 결과 json 파일 보관)
+
+`result Image`
+`directory Structure`
+![](img/sh-01-12-13-58.png)
+
+`result.json`
+
+![](img/sh-01-12-13-59.png)<br />
+![](img/sh-01-12-14-00.png)<br />

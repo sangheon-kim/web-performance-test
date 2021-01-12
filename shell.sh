@@ -106,4 +106,3 @@ for mobile in "${MOBILE_ARR[@]}"; do
 done
 
 npm run start
-# yarn start
