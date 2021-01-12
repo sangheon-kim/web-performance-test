@@ -47,8 +47,10 @@ $ sh shell.sh
 
 - Archive the results json file in the result folder (result 폴더에 결과 json 파일 보관)
 
-`result Image`
-`directory Structure`
+## `result Image`
+
+`directory Structure`<br />
+
 ![](img/sh-01-12-13-58.png)
 
 `result.json`
