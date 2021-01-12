@@ -36,3 +36,10 @@ $ sh shell.sh
     --throttling.downloadThroughputKbps=10240 \ # Network Throttling
     --throttling.uploadThroughputKbps=10240 # Network Throttling
 ```
+
+### V 1.1.0 release Note
+
+- 동일 도메인의 경우에 overwrite되는 현상 수정을 위해 prefix로 모바일의 경우 파일명 앞에 m* 데스크탑으로 테스트의 경우 pc* 붙혀주는것으로 수정
+- 자바스크립트 파일에 whiteList 배열에 넣어놓은 키값을 기준으로 result.json 추출
+- 하이퍼포먼스 장비를 가정으로한 throttling 옵션 추가
+- result 폴더에 결과 json파일 보관
