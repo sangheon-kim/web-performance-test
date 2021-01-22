@@ -8,7 +8,8 @@ let date = new Date().getDate();
 date = date < 10 ? `0${date}` : date;
 const parseDate = `${year}-${month}-${date}`;
 
-const whiteList = ["largest-contentful-paint", "first-contentful-paint"];
+const whiteList = ["largest-contentful-paint"];
+const scoreWhiteList = ["performance", "accessibility", "best-practices", "seo"];
 const defaultDir = path.join(__dirname, `../result/${parseDate}`);
 
 const throttleFolder = `${defaultDir}/default`;
@@ -40,6 +41,13 @@ function readFile(folder, isThrottle = false) {
     const data = JSON.parse(fs.readFileSync(`${folder}/${file}`, "utf-8"));
 
     const auditsData = data["audits"];
+    const categoryData = data["categories"];
+
+    Object.keys(categoryData).forEach((category) => {
+      if (scoreWhiteList.indexOf(category) > -1) {
+        obj[throttleKey][fileName][category] = Math.round(categoryData[category]["score"] * 100);
+      }
+    });
 
     Object.keys(auditsData).forEach((item) => {
       if (whiteList.indexOf(item) > -1) {

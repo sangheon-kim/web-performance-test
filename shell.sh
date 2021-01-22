@@ -1,9 +1,12 @@
 #!/bin/sh
 
+re="^([A-Za-z\.]{0,}(\:*\d+)*)\/*"
+
 # Please Input Your PC Web Site List
-PC_ARR=("nate.com" "news.nate.com" "pann.nate.com" "tv.nate.com" "shopping.nate.com")
+PC_ARR=("nate.com" "news.nate.com/view/20200309n34198" "pann.nate.com/talk/353507871" "tv.nate.com/clip/4025004")
 # Please Input Your Mobile Web Site List
-MOBILE_ARR=("m.nate.com" "m.news.nate.com" "m.pann.nate.com" "tv.nate.com" "m.shopping.nate.com")
+MOBILE_ARR=("m.nate.com" "m.news.nate.com/view/20200309n34198" "m.pann.nate.com/talk/353507871
+" "tv.nate.com/clip/4025004")
 # Today Date
 date=$(date +%Y-%m-%d)
 # throttle Folder Name  
@@ -20,72 +23,104 @@ highPerformance_throttling_pc=1
 # High Performance Device Test(mobile)
 highPerformance_throttling_mobile=2
 
+
 # default Desktop Test Function 
 pc_func() {
+  
+  # echo $s1
   url=$1
+  
+  if [[ $url =~ $re ]]; then 
+    filename=${BASH_REMATCH[1]}; 
+  fi
+
   mkdir -p result/$date/$throttleFolder
  
-  touch result/$date/$throttleFolder/pc_$url\.$ext
+  touch result/$date/$throttleFolder/pc_$filename\.$ext
   
   lighthouse https://$url \
     --chrome-flags="--headless" \
     --output=$ext \
-    --output-path=./result/$date/$throttleFolder/pc_$url.$ext \
+    --output-path=./result/$date/$throttleFolder/pc_$filename.$ext \
     --screenEmulation.disabled \
     --no-emulatedUserAgent \
     --form-factor=desktop \
+    --only-categories=performance,best-practices,accessibility,seo \
     --throttling.cpuSlowdownMultiplier=$default_throttling_pc \
     --throttling-method=devtools \
     --throttling.requestLatencyMs=40 \
     --throttling.downloadThroughputKbps=10240 \
     --throttling.uploadThroughputKbps=10240
+
+  return
 }
 
 # default Mobile Test Function
 mobile_func() {
   url=$1
 
-  mkdir -p result/$date/$throttleFolder
-  touch result/$date/$throttleFolder/m_$url\.$ext
+  if [[ $url =~ $re ]]; then 
+    filename=${BASH_REMATCH[1]}; 
+  fi
 
-  lighthouse https://$url --chrome-flags="--headless" --output=$ext --output-path=./result/$date/$throttleFolder/m_$url.$ext
+  mkdir -p result/$date/$throttleFolder
+  touch result/$date/$throttleFolder/m_$filename\.$ext
+
+  lighthouse https://$url --chrome-flags="--headless" --output=$ext \
+    --output-path=./result/$date/$throttleFolder/m_$filename.$ext \
+    --only-categories=performance
+
+  return
 }
 
 # Hight Performance Desktop Test Function
 pc_no_throttling_func() {
   url=$1
+
+  if [[ $url =~ $re ]]; then 
+    filename=${BASH_REMATCH[1]}; 
+  fi
   
   mkdir -p result/$date/$highPerformance
-  touch result/$date/$highPerformance/pc_$url\.$ext
+  touch result/$date/$highPerformance/pc_$filename\.$ext
   
   lighthouse https://$url \
     --chrome-flags="--headless" \
-    --output=$ext --output-path=./result/$date/$highPerformance/pc_$url.$ext \
+    --output=$ext --output-path=./result/$date/$highPerformance/pc_$filename.$ext \
     --screenEmulation.disabled \
     --no-emulatedUserAgent \
     --form-factor=desktop \
+    --only-categories=performance \
     --throttling.cpuSlowdownMultiplier=$highPerformance_throttling_pc \
     --throttling-method=devtools \
     --throttling.requestLatencyMs=40 \
     --throttling.downloadThroughputKbps=10240 \
     --throttling.uploadThroughputKbps=10240
-    
+
+  return   
 }
 
 # Hight Performance Mobile Test Function
 mobile_no_throttling_func() {
   url=$1
+
+  if [[ $url =~ $re ]]; then 
+    filename=${BASH_REMATCH[1]}; 
+  fi
   
   mkdir -p result/$date/$highPerformance
-  touch result/$date/$highPerformance/m_$url\.$ext
+  touch result/$date/$highPerformance/m_$filename\.$ext
 
   lighthouse https://$url --chrome-flags="--headless" \
-    --output=$ext --output-path=./result/$date/$highPerformance/m_$url.$ext \
+    --output=$ext --output-path=./result/$date/$highPerformance/m_$filename.$ext \
+    --only-categories=performance \
     --throttling.cpuSlowdownMultiplier=$highPerformance_throttling_mobile \
     --throttling-method=devtools \
     --throttling.requestLatencyMs=40 \
     --throttling.downloadThroughputKbps=10240 \
     --throttling.uploadThroughputKbps=10240
+
+  return
 }
 
 # loop pc_func execute (put in your PC_ARR element)
