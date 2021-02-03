@@ -1,69 +1,723 @@
-shell.sh: line 44: https://nate.com: No such file or directory
-shell.sh: line 90: lighthouse: command not found
-shell.sh: line 146: run: command not found
-shell.sh: line 44: https://nate.com: No such file or directory
-shell.sh: line 90: lighthouse: command not found
-shell.sh: line 146: run: command not found
-shell.sh: line 44: https://nate.com: No such file or directory
-shell.sh: line 90: lighthouse: command not found
-shell.sh: line 146: run: command not found
-shell.sh: line 44: https://nate.com: No such file or directory
-shell.sh: line 90: lighthouse: command not found
-shell.sh: line 146: run: command not found
-shell.sh: line 44: https://nate.com: No such file or directory
-shell.sh: line 90: lighthouse: command not found
-shell.sh: line 146: run: command not found
-shell.sh: line 44: https://nate.com: No such file or directory
-shell.sh: line 90: lighthouse: command not found
-shell.sh: line 146: run: command not found
-shell.sh: line 44: https://nate.com: No such file or directory
-shell.sh: line 90: lighthouse: command not found
-shell.sh: line 146: run: command not found
-shell.sh: line 44: https://nate.com: No such file or directory
-shell.sh: line 90: lighthouse: command not found
-shell.sh: line 146: run: command not found
-shell.sh: line 44: https://nate.com: No such file or directory
-shell.sh: line 90: lighthouse: command not found
-shell.sh: line 146: run: command not found
-shell.sh: line 44: https://nate.com: No such file or directory
-shell.sh: line 90: lighthouse: command not found
-shell.sh: line 146: run: command not found
-shell.sh: line 44: https://nate.com: No such file or directory
-shell.sh: line 90: lighthouse: command not found
-shell.sh: line 146: run: command not found
-shell.sh: line 44: https://nate.com: No such file or directory
-shell.sh: line 90: lighthouse: command not found
-shell.sh: line 146: run: command not found
-shell.sh: line 44: https://nate.com: No such file or directory
-shell.sh: line 90: lighthouse: command not found
-shell.sh: line 146: run: command not found
-shell.sh: line 44: https://nate.com: No such file or directory
-shell.sh: line 90: lighthouse: command not found
-shell.sh: line 146: run: command not found
-shell.sh: line 44: https://nate.com: No such file or directory
-shell.sh: line 90: lighthouse: command not found
-shell.sh: line 146: run: command not found
-shell.sh: line 44: https://nate.com: No such file or directory
-shell.sh: line 90: lighthouse: command not found
-shell.sh: line 146: run: command not found
-shell.sh: line 44: https://nate.com: No such file or directory
-shell.sh: line 90: lighthouse: command not found
-shell.sh: line 146: run: command not found
-shell.sh: line 44: https://nate.com: No such file or directory
-shell.sh: line 90: lighthouse: command not found
-shell.sh: line 146: run: command not found
-shell.sh: line 44: https://nate.com: No such file or directory
-shell.sh: line 90: lighthouse: command not found
-shell.sh: line 146: run: command not found
-shell.sh: line 44: https://nate.com: No such file or directory
-shell.sh: line 90: lighthouse: command not found
-shell.sh: line 146: run: command not found
-shell.sh: line 44: https://nate.com: No such file or directory
-shell.sh: line 90: lighthouse: command not found
-shell.sh: line 146: run: command not found
-shell.sh: line 44: https://nate.com: No such file or directory
-shell.sh: line 90: lighthouse: command not found
-shell.sh: line 146: run: command not found
-shell.sh: line 44: https://nate.com: No such file or directory
-shell.sh: line 90: lighthouse: command not found
-shell.sh: line 146: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
+shell.sh: line 45: https://nate.com: No such file or directory
+shell.sh: line 91: lighthouse: command not found
+shell.sh: line 147: run: command not found
